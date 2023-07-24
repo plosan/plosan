@@ -4,7 +4,7 @@
 - 📚 I'm a Mathematics and Aerospace Engineering student at the Polythecnic University of Catalonia
 - 🌱 I’m currently learning Python
 - 🌱 I’m currently improving my C/C++
-- 👯 I’m looking forward to collaborate with anybody passionate about science and tech
+- 👯 I’m looking forward to collaborate with anyone passionate about science and tech
 - 💬 Ask me about math and space
 
 <!--
